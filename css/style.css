@@ -1,0 +1,249 @@
+
+body{
+    background-color: #e5e5e5 !important;
+    scroll-behavior: smooth;
+}
+
+
+*{
+    margin: 0;
+    padding: 0;
+
+}
+
+.nutbam{
+    background: linear-gradient(96.14deg, #3A8EF6 -10.84%, #6F3AFA 196.74%);
+    box-shadow: 0px 8px 23px rgba(65, 132, 247, 0.24);
+    border-radius: 100px !important;
+    border: none !important;
+    padding: 10px !important;
+    
+
+}
+
+
+footer{
+    background-color:#19191b;
+}
+.motcot ul{
+    list-style-type: none;
+}
+footer hr{
+ border: 0.5px solid #FFFFFF !important;
+    
+}
+.mauchu{
+    background: linear-gradient(96.14deg, #3A8EF6 -10.84%, #6F3AFA 196.74%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+   background-clip: text;
+  /* text-fill-color: transparent; */
+
+}
+.maunen{
+    background: #E2EDFF;
+   
+}
+.khung{
+    background: #FFFFFF;
+    box-shadow: 0px 24px 32px -3px rgba(3, 9, 50, 0.04);
+    border-radius: 24px;
+    padding: 30px;  
+}
+
+.mauchuh3{
+    color: #031432;
+
+    opacity: 0.8;
+}
+
+                /* <Modal> */
+.modal-body input { margin-bottom: 10px;}
+.modal-body h1 { padding: 10px 0px;}
+.brand-client__box-img { width: 20px 20px; overflow: hidden; margin:0px 5px}
+.brand-client__box-img img {width:100%; object-fit: contain;}
+
+.brand-client { padding:100px 0px}
+.brand-client-content{} 
+                 
+                 /* <Modal> */
+
+
+
+
+
+
+.bg{
+    background: linear-gradient(96.14deg, #3A8EF6 -10.84%, #6F3AFA 196.74%) !important;  
+}
+.kichthuoc{
+    width: 130px !important;
+    border-radius: 8px !important;
+    padding: 10px !important;
+    background: linear-gradient(96.14deg, #3A8EF6 -10.84%, #6F3AFA 196.74%) !important;
+    box-shadow: 0px 8px 23px rgba(65, 132, 247, 0.24) !important;
+}
+
+.hinh{
+   
+    padding: 300px;
+    background: url(../img/1111.png);
+    background-repeat: no-repeat no-repeat no-repeat;
+    background-size: cover;
+    background-position: center;
+    position: relative;
+    z-index: 1;  
+}
+
+.kichthuocnut{
+    padding: 10px 50px !important;
+    border: 1px solid white !important;
+    background-color: none !important;
+    border-radius: 100px !important;
+    border: none;
+}
+.nut2{
+    background-color: white !important;
+    border-radius: 100px !important;
+    border: none !important;
+    padding: 10px 30px !important;
+}
+.botron{
+    border-radius: 50% !important;
+}
+.bocanh{
+    border-radius: 20px !important;
+}
+
+
+
+
+
+
+
+
+.cachtren{
+    /* top: 400px  !important; */
+    bottom: 400px !important;
+    background-color: rgba(8, 4, 0, 0.431) !important;
+    padding: 60px !important;
+
+}
+/* .cachnut{
+    top: 200px !important; 
+} */
+@keyframes chayxuong{
+    0%{
+        transform: translate(0,0);
+    }
+    50%{
+        transform: translate(0, 28px);
+    }
+    100%{
+        transform: translate(0, 0);
+    }
+    }
+.nutchay{
+    animation: chayxuong 1s infinite;
+    color: #E2EDFF !important;
+
+}
+#formlienhe{
+    width: 100%;
+    height: 100vh;
+   
+    background-position: center;
+    background-size: cover;
+    background-image: url(../img/dmitry-bukhantsov-cYAiuqpasOA-unsplash11.jpg);
+   
+   
+}
+
+.chuaform{
+    background-color: rgba(255, 255, 255, 0.654) !important;
+    text-ali0gn: center !important;
+   
+   
+    padding: 50px !important;
+
+    border-radius: 10px ;
+    box-shadow: 2px 10px 28px rgba(75, 0, 129, 0.12) !important;
+  
+
+  
+   
+}
+.demoform{
+    padding:  210px 0 !important;
+   
+}
+
+
+
+
+
+
+.chuaform h1{
+    animation: scale-up-center 2s ease-out infinite both;
+}
+ @-webkit-keyframes scale-up-center {
+    0% {
+      -webkit-transform: scale(0.5);
+              transform: scale(0.5);
+    }
+    100% {
+      -webkit-transform: scale(1);
+              transform: scale(1);
+    }
+  }
+  @keyframes scale-up-center {
+    0% {
+      -webkit-transform: scale(0.5);
+              transform: scale(0.5);
+    }
+    100% {
+      -webkit-transform: scale(1);
+              transform: scale(1);
+    }
+  }
+
+
+  #mybtn{
+    background-color: transparent;
+    border: none;
+    color: rgb(115, 173, 244) ;
+    position: fixed;
+    bottom: 20px;
+    right: 20px;
+    z-index: 10;
+    display: none;
+}
+
+.bonut{
+    border-radius: 5px !important;
+}
+
+.carousel-caption h1{
+    animation: scale-up-center 2s ease-out infinite both;
+
+}
+@-webkit-keyframes scale-up-center {
+    0% {
+      -webkit-transform: scale(0.5);
+              transform: scale(0.5);
+    }
+    100% {
+      -webkit-transform: scale(1);
+              transform: scale(1);
+    }
+  }
+  @keyframes scale-up-center {
+    0% {
+      -webkit-transform: scale(0.5);
+              transform: scale(0.5);
+    }
+    100% {
+      -webkit-transform: scale(1);
+              transform: scale(1);
+    }
+  }
